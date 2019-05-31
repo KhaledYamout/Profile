@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-
-header {
-background-position: right;
-padding: 20px;
 
 <header>
 <h3> Name: Khaled Yamout <h3>
