@@ -1,14 +1,11 @@
 
-<header>
 <h3> Name: Khaled Yamout <h3>
 <h3> Student ID: s3805942 <h3>
-<header>  
   
-<head>
+  
 <title> My Profile <title>  
-<head>
 
-<body>
+
  <h2> Background <h2>
   <p> Born and raised in Saudi Arabia though, my original nationality is Lebanese. I was fortunate enough to get my education at an international school where all my colleagues and friends were from different countries and had different cultures making it a rich environment to grow up in. My main language is English though I grew up in an Arabic country, my Arabic is secondary. I am a media fanatic and have worked on ads and freelanced in almost all areas of media.<p>
    <h2> Interest in I.T.<h2>
