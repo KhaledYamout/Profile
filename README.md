@@ -16,6 +16,8 @@ Playing videogames as a child made me wonder how all of it was possible. It is o
  <h2>Ideal Job<h2>
 The job I would be seeking would mostly have to do with development and programming though I am leaning towards web/app design and development. https://www.seek.com.au/Information-and-Technology-jobs-in-information-communication-technology?subclassification=6290%2C6287
 
+![Ideal job](https://user-images.githubusercontent.com/51149076/58826780-1fc1b080-864a-11e9-97b1-465c3d4f9b85.jpg)
+
 
   
 
