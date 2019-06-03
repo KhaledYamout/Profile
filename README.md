@@ -12,7 +12,8 @@ Born and raised in Saudi Arabia though, my original nationality is Lebanese. I w
 <h2> Interest in I.T.<h2>
 Playing videogames as a child made me wonder how all of it was possible. It is only in recent days after having struggled in and out of jobs that I learned the importance of learning I.T. because it will open a wider range of opportunities especially in this day and age. My best friend quit his job to pursue greater work on his own terms specializing in development of apps and more. Studying abroad especially online is a new experience entirely however, the main reason was because I felt local educational programs are too costly and unsatisfactory. Learning how a computer works, and how to utilize a computer’s power to create, and develop programs, apps, websites, and more is the knowledge I seek to gain from my studies.
   
- Ideal Job
+ 
+ <h2>Ideal Job<h2>
 The job I would be seeking would mostly have to do with development and programming though I am leaning towards web/app design and development. https://www.seek.com.au/Information-and-Technology-jobs-in-information-communication-technology?subclassification=6290%2C6287
 
      
