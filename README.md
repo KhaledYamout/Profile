@@ -13,7 +13,7 @@ The job I would be seeking would mostly have to do with development and programm
 
 ![Ideal job](https://user-images.githubusercontent.com/51149076/58826780-1fc1b080-864a-11e9-97b1-465c3d4f9b85.jpg)
 
-The positions would require years of experience and practice, my skills at the moment cover only the basic fundamentals of building and developing an app/web page. I would need to get more experience and really work hard to gain the necessary skills to go forward with job seeking. I am looking forward into interning somewhere that can help me grow and learn the skills I need in order to continue. The program language I would be working with would mostly be Java, HTML5, CSS, C++.
+The positions would require years of experience and practice, my skills at the moment cover only the basic fundamentals of building and developing an app/web page. I would need to get more experience and really work hard to gain the necessary skills to go forward with job seeking. I am looking forward to interning somewhere that can help me grow and learn the skills I need in order to continue. The program languages I would be working with would mostly be Java, HTML5, CSS, C++.
 
 
   
