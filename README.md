@@ -26,3 +26,6 @@ The tests that were undertaken were interesting to take not only to present to p
 
 ![learning style](https://user-images.githubusercontent.com/51149076/59143496-99ec8f00-89d4-11e9-8ef9-fbad01842eba.jpg)
 
+
+<img src="IQ.jpg">
+
