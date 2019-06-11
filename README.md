@@ -10,6 +10,7 @@ Playing videogames as a child made me wonder how all of it was possible. It is o
  
  <h2>Ideal Job<h2>
 The job I would be seeking would mostly have to do with development and programming though I am leaning towards web/app design and development.
+<img src="Ideal job.jpg">
 
 The positions would require years of experience and practice, my skills at the moment cover only the basic fundamentals of building and developing an app/web page. I would need to get more experience and really work hard to gain the necessary skills to go forward with job seeking. I am looking forward to interning somewhere that can help me grow and learn the skills I need in order to continue. The program languages I would be working with would mostly be Java, HTML5, CSS, C++.
 
