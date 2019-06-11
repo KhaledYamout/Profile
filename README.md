@@ -11,12 +11,14 @@ Playing videogames as a child made me wonder how all of it was possible. It is o
  <h2>Ideal Job<h2>
 The job I would be seeking would mostly have to do with development and programming though I am leaning towards web/app design and development.
 
-<img src="ideal job.jpg"> 
-  
 The positions would require years of experience and practice, my skills at the moment cover only the basic fundamentals of building and developing an app/web page. I would need to get more experience and really work hard to gain the necessary skills to go forward with job seeking. I am looking forward to interning somewhere that can help me grow and learn the skills I need in order to continue. The program languages I would be working with would mostly be Java, HTML5, CSS, C++.
 
 <h2>Tests and Potential<h2>
 The tests that were undertaken were interesting to take not only to present to people but, for self-assessment. The tests help you understand what type of person you are dealing with and whether that person or specific individual would be a qualified to be a part of the team. It is important to know a person before going into a team based project especially if it is long term. The test do help you discern what type of individual is joining however, tests don’t always show the truth and so, you must always trust team work to be the ultimate test for everyone involved.
+  
+<img src="IQ.jpg">
+<img src="learning style.jpg">
+<img src="Myers.jpg">
   
 
 
